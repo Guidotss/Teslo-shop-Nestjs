@@ -17,8 +17,8 @@
     ```
 
 6. Ejecutar SEED
-   ```bash
-  http://localhost:3000/api/seed
+   ```
+   http://localhost:3000/api/seed
    ````
 
 7. Levantar en modo desarrollo con 
